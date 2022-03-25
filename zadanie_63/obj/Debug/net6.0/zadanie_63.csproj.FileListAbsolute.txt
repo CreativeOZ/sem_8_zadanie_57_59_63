@@ -1,0 +1,15 @@
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\bin\Debug\net6.0\zadanie_63.exe
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\bin\Debug\net6.0\zadanie_63.deps.json
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\bin\Debug\net6.0\zadanie_63.runtimeconfig.json
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\bin\Debug\net6.0\zadanie_63.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\bin\Debug\net6.0\ref\zadanie_63.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\bin\Debug\net6.0\zadanie_63.pdb
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.csproj.AssemblyReference.cache
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.AssemblyInfoInputs.cache
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.AssemblyInfo.cs
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.csproj.CoreCompileInputs.cache
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\ref\zadanie_63.dll
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.pdb
+C:\Users\zagri\Desktop\GeekBrains\seminar8_dz\zadanie_63\obj\Debug\net6.0\zadanie_63.genruntimeconfig.cache
